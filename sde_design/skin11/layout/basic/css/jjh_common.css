@@ -1,0 +1,24 @@
+*{
+    font-family: 'Gugi', cursive; 
+    color:  #D4B28A ;
+}
+.cola{
+color: white ;
+text-align: center;
+/* margin-top: -3.5rem;
+margin-left: 9rem;
+text-align: center;
+font-size: 1.8rem; */
+}
+.topArea__statelogon a{
+    color: #D4B28A;
+}
+.topArea__logo a{
+    display: flex;
+    align-items: center;
+}
+.topArea__logo span{
+    display: inline-block;
+
+    margin: 10px;
+}
